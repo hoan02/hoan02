@@ -1,7 +1,6 @@
 ### Hi there! My name is Lê Công Hoan  👋
 
 - 🌱 I'm currently studying information technology at UTC
-- 📫 How to reach me: Phone: 0358069992 -Emai:hoanvipboi1@gmail.com
 <!--
 **hoan02/hoan02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
