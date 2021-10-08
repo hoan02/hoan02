@@ -1,7 +1,7 @@
 ### Hi, My name is Lê Công Hoan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 Passion in something ... (secret😊)
-- 💪 2021 Goals: Learning many things in C++,HTML,CSS
+- 💪 2021 Goals: Learning many things in C/C++, HTML, CSS, Python,...
 - ⭐: Listening, surf net, ...
 
 ### :zap: GitHub Stats
