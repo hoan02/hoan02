@@ -1,7 +1,7 @@
 ### Hi, My name is Lê Công Hoan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 Passion in something ... (secret😊)
-- 💪 2022 Goals: Learning many things in C/C++, Java, HTML, CSS, Javascript, Python,...
+- 💪 2024 Goals: Learning many things in AI, Typescript, Next.js14,...
 - ⭐: Listening, surf net, ...
 
 ### :zap: GitHub Stats
@@ -24,7 +24,7 @@
 ---
 
 ### 📫 Contact me via:
-- EMAIL: hoanvipboi1@gmail.com
+- EMAIL: lehoan.dev@gmail.com
 - FACEBOOK: [Lê Công Hoan][website]
 
-[website]: https://www.facebook.com/hoan.ann69/
+[website]: https://www.facebook.com/hoanit02/
