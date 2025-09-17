@@ -1,3 +1,7 @@
+<p align="center">
+  🚀 <strong>Founder</strong> of <a href="https://github.com/puchidemy">Puchidemy</a>
+</p>
+
 <h1 align="center">👋 Welcome to my GitHub!</h1>
 
 <p align="center">
@@ -73,8 +77,7 @@
 ## 📌 Featured Projects
 
 ### 🔥 Puchi System (2024 - Present)
-- **Frontend**: [puchi](https://github.com/hoan02/puchi) — [puchi.io.vn](puchi.io.vn) A Vietnamese learning site with super smooth animations (Next.js, Tailwind, Shadcn, Clerk).
-- **Backend**: [puchi-backend-microservices](https://github.com/hoan02/puchi-backend-microservices) —  Microservice backend for Puchi with modern architecture & 2025 tech (Go, APISIX, Clerk, gRPC, RabbitMQ).
+- 🌟 [Puchidemy](https://github.com/puchidemy): An open-source educational platform designed to support Vietnamese learners and developers with modern tools and collaborative projects.
 
 ### 🛠 Utility & Showcase Projects
 - [read-novels-reader](https://github.com/hoan02/read-novels-reader): Online novel reading platform [đọc truyện online](https://doctruyen.io.vn/) (3 role: reader/writer/admin).
